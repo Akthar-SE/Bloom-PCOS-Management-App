@@ -1,11 +1,8 @@
 # Bloom – PCOS Management App
 
-![License](https://img.shields.io/github/license/Akthar-SE/Bloom-PCOS-Management-App
-?color=orange)
-![Stars](https://img.shields.io/github/stars/Akthar-SE/Bloom-PCOS-Management-App
-?style=flat&logo=github)
-![Issues](https://img.shields.io/github/issues/Akthar-SE/Bloom-PCOS-Management-App
-?color=brightgreen)
+![License](https://img.shields.io/github/license/Akthar-SE/Bloom-PCOS-Management-App?color=orange)
+![Stars](https://img.shields.io/github/stars/Akthar-SE/Bloom-PCOS-Management-App?style=flat&logo=github)
+![Issues](https://img.shields.io/github/issues/Akthar-SE/Bloom-PCOS-Management-App?color=brightgreen)
 
 <p align="center">
   <picture>
