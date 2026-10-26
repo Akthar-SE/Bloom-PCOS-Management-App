@@ -1,4 +1,3 @@
-
 # Bloom – PCOS Management App
 
 ![License](https://img.shields.io/github/license/Akthar-SE/Bloom-PCOS-Management-App
