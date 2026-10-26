@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bloom – PCOS Management App
 
 ![License](https://img.shields.io/github/license/Akthar-SE/Bloom-PCOS-Management-App
@@ -62,3 +63,7 @@ This project was developed as part of an Android development hiring assignment t
 This project was developed as part of a hiring assignment.
 
 No open-source license has been specified. Unless otherwise agreed, the source code remains subject to applicable copyright laws. Please contact the copyright holder for permission before reusing or distributing the code.
+=======
+# Bloom-PCOS-Management-App
+An Android PCOS management app built with Kotlin and Jetpack Compose, featuring daily wellness goals, cycle tracking, symptom logging, and personalized reminders.
+>>>>>>> origin/main
